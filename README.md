@@ -1,7 +1,3 @@
-Totally fair — let’s do this manually, step by step. Here's the full, polished `README.md` content you can **copy-paste** into your file:
-
----
-
 ### ✅ `README.md`
 
 ```markdown
